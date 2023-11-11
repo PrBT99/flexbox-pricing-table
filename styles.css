@@ -22,9 +22,6 @@ body {
   border-radius: 5px;
 
  }
- .pricing-plan:hover{
-      background-color: rgba(66, 222, 167, 0.767) ;
-  }
 
   .plan-features{
     list-style: none;
