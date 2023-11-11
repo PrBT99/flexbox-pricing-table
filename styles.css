@@ -8,6 +8,11 @@ body {
     height: 100vh;
     align-items: center;
     gap:20px;
+  }
+    
+      .pricing-plan:hover{
+          background-color: rgba(66, 222, 167, 0.767) ;
+ }
     
 
    
